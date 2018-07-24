@@ -1,6 +1,3 @@
-# for i in range(10):
-#     print('1 ', end = '0 ')
-
 n = int(input("Nhap total number cua 0 va 1: "))
 for i in range(n):
     if i % 2 ==0:
