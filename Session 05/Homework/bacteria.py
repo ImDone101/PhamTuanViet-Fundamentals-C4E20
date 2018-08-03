@@ -1,0 +1,5 @@
+v = int(input("Co bao nhieu vi khuan: "))
+t = int(input("Chung ta doi bao nhieu phut: "))
+kq = v * 2 ** (t//2)
+print(kq)
+print("Sau {} phut chung ta se co {} vi khuan".format(t, kq))
